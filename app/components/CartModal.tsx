@@ -28,7 +28,7 @@ const CartModal = () => {
                     <div className="">$10</div>
                     {/*DESC*/}
                     <div className="">
-                        available
+                        Available
                     </div>
                     </div>
                     {/*BOTTOM*/}
